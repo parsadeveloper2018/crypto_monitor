@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "WebRequestChecker"
+rootProject.name = "crypto_main"
 include ':app'
